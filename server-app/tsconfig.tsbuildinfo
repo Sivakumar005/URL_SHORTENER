@@ -1,0 +1,1 @@
+{"root":["./src/server.ts","./src/config/dbconfig.ts","./src/controllers/shorturl.ts","./src/model/shorturl.ts","./src/routes/shorturl.ts"],"version":"5.8.3"}
